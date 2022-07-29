@@ -16,7 +16,3 @@ In this project, you will apply supervised learning techniques and an analytical
 
 My project was evaluated against the [Finding Donors for CharityML project rubric.](https://github.com/robertyoung2/Finding-Donors-for-CharityML/blob/master/Finding%20Donors%20for%20CharityML%20project%20rubric.pdf). 
 
-### Files Submitted 
-
-- The `finding_donors.ipynb` notebook file with all questions answered and all code cells executed and displaying output.
-- An HTML export of the project notebook with the name `report.html`. This file must be present for your project to be evaluated.
